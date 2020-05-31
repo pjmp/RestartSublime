@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Restart: Kill and re-launch",
+        "command": "restart_sublime_instance",
+    }
+]
